@@ -1,0 +1,16 @@
+{
+    "name": "swellphp/tester",
+    "description": "Just a test package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Keith Mifsud",
+            "email": "mifsud.k@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
